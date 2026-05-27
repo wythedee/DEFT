@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+
+# Local data, checkpoints, and experiment outputs
+data/
+outputs/
+logs/
+runs/
+checkpoints/
+weights/
+*.pth
+*.pt
+*.ckpt
+*.pkl
+*.npy
+*.npz

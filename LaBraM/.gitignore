@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.vscode/
+
+# Local runs / logs
+runs/
+log/
+logs/
+*.log
+disentangle_seed0_balanced_acc.csv
+records/
+结果.xlsx
+
+# Keep only the original pretrained checkpoints tracked in git.
+checkpoints/*
+!checkpoints/labram-base.pth
+!checkpoints/vqnsp.pth
+
+.DS_Store
+output_log/

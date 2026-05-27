@@ -1,0 +1,30 @@
+# Python cache/artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# Experiment outputs
+runs/
+logs/
+tensorboard/
+*.log
+
+# Model checkpoints / large binaries
+pretrain_weights/
+*.pth
+*.pt
+*.ckpt
+*.bin
+
+# IDE/editor
+.idea/
+.vscode/
+
+# Virtual envs
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+runs_*/

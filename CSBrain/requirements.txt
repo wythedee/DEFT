@@ -1,0 +1,17 @@
+einops
+h5py
+lmdb
+matplotlib
+mne
+natsort
+numpy
+pandas
+ptflops
+pyEDFlib
+scikit_learn
+scipy
+threadpoolctl
+torch
+torchinfo
+tqdm
+umap_learn

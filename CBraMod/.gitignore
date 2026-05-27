@@ -1,0 +1,13 @@
+.idea
+*pycache*
+output_log
+**weights**
+.vscode*
+.deps/
+eval_logs/
+multi_head/
+wandb/
+tmp/
+.codex/skills/experiment-run-logging/assets/experiment_registry/archive/
+.codex/skills/experiment-run-logging/assets/experiment_registry/scripts/
+figure/
